@@ -9,11 +9,11 @@ author_profile: true
 
 - Total GPA: 18.1 (3.84/4)
 - Courses:
-- - Computer Networks and Lab (20/20)
-- - IoT (20/20)
-- - Cloud Computing (20/20)
-- - Web Designing (20/20)
-- - Multimedia Systems (19.4/20)
+  - Computer Networks and Lab (20/20)
+  - IoT (20/20)
+  - Cloud Computing (20/20)
+  - Web Designing (20/20)
+  - Multimedia Systems (19.4/20)
 
 ## Diploma in Mathematics and Physics at Nemouneh High School
 
