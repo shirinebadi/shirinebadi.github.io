@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my academic CV from [https://github.com/shirinebadi/raw/master/shirinebadi.github.io/files/Shirin_s_CV.pdf]here.
+You can download my academic CV from [here](https://github.com/shirinebadi/shirinebadi.github.io/files/Shirin_s_CV.pdf).
