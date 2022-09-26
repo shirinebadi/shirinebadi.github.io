@@ -20,4 +20,4 @@ Feel free to contact me if you need any further information.
 
 
 
-Say her name; **#MahsaAmini**
+Say her name: **#MahsaAmini**
