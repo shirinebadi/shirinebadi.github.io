@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Shirin Ebadi"
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   bio              : "Computer Engineering Student at Amirkabir University of Technology"
   location         : "Terhan, Iran"
   employer         :
   email            : "shirinebadi79@gmail.com"
   github           : "shirinebadi"
-  linkedin         : "https://www.linkedin.com/in/shirin-ebadi-77559b19b/"
+  linkedin         : "shirin-ebadi-77559b19b/"
 
 
 # Reading Files
