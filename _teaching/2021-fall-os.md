@@ -7,7 +7,6 @@ venue: "Amirkabir University of Technology"
 date: 2021-10-01
 location: "Terhan, Iran"
 ---
-
 An undergraduate-level course for third-year students, taught by Prof. [Hamidreza Zarandi](https://scholar.google.com/citations?user=ZA9rRWAAAAAJ&hl=en) at the Amirkabir University of technology, School of Computer Engineering in fall 2021
 
 ## Responsibilities:
