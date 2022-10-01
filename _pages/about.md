@@ -17,7 +17,3 @@ I am also working on serving ML models in serverless edge computing environments
 My main research interests include **Cloud/fog Computing**, **Distributed Systems**, **IoT** and **Operating Systems**.
 
 Feel free to contact me if you need any further information.
-
-
-
-Say her name: **#MahsaAmini**
