@@ -9,7 +9,7 @@ redirect_from:
 
 ## Research Intern
 
-Focusing on Kubernetes scheduler, we have been trying to propose a new scheduler aiming at addressing interference in heterogeneous clusters. I have been doing my reaserch under the supervision of [Dr. Adel N. Tousi](https://scholar.google.com/citations?user=qIh_I-gAAAAJ&hl=en) at [Monash University](https://www.monash.edu/).
+Focusing on Kubernetes scheduler, we have been trying to propose a new scheduler aiming at addressing interference in heterogeneous clusters. I have been doing my reaserch under the supervision of [Dr. Adel N. Toosi](https://scholar.google.com/citations?user=qIh_I-gAAAAJ&hl=en) at [Monash University](https://www.monash.edu/).
 
 ## Research Intern
 
