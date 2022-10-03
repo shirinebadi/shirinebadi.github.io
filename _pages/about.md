@@ -8,12 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm Shirin Ebadi, computer engineering student at Amirkabir University of Technology(AUT), which is among the top three universities in Iran.
+Hey! I'm Shirin, a computer engineering student at [Amirkabir University of Technology(AUT)](https://aut.ac.ir/en).
+My main research interests include **Cloud/fog Computing**, **Distributed Systems**, **IoT** and **Operating Systems**. Currently, I'm working on my bachelor projects that is "Implementing Emotion Detection System Based on Serverless Edge Computing in IoT applications" at Dr. Masoud Sabaei's lab under his supervision. I'm also research intern under the supervision of Dr. Adel N. Tousi at Monash University. Our research aim at proposing an interference aware scheduler for heterogeneous clusters.
 
-Recently, I've been participating as research intern under the supervision of Dr. Adel N. Tousi at Monash University, focusing on Kubernetes schedulers in order to propose an interference aware scheduler for heterogeneous clusters. 
-
-I am also working on serving ML models in serverless edge computing environments at Dr. Masoud Sabaei's lab under his supervision.
-
-My main research interests include **Cloud/fog Computing**, **Distributed Systems**, **IoT** and **Operating Systems**.
 
 Feel free to contact me if you need any further information.
